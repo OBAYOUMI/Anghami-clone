@@ -42,3 +42,7 @@ Our team:
 ## Credits
 
 - [Anghami](https://www.anghami.com/) - Inspiration for the project layout and features.
+
+## Contact Us
+
+For any questions or feedback, feel free to reach out to us at [ramzybakir.rsb@gmail.com](ramzybakir.rsb@gmail.com), [yahiasonbol@gmail.com](yahiasonbol@gmail.com).
