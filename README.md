@@ -42,4 +42,3 @@ Our team:
 ## Credits
 
 - [Anghami](https://www.anghami.com/) - Inspiration for the project layout and features.
-
